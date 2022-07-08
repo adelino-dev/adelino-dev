@@ -6,9 +6,9 @@
 
 ## Contect Me:
 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=black)](https://www.instagram.com/adelino.dev/)
+[![Instragram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adelino.dev/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCHnO2YJ6VWsFZBwdx26TkxQ)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHnO2YJ6VWsFZBwdx26TkxQ)
 
 
 ## Languages & Tools:
