@@ -1,9 +1,25 @@
+## About Me:
 
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/adelino.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adelino.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCHnO2YJ6VWsFZBwdx26TkxQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adelino-dev" height="30" width="40" /></a>
-</p>
+- :art: I'm making programming my new art
+- :wrench: I like challenges and solving problems
+- :dart: Current goal: become a front-end
 
-<h2 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Contect Me:
+
+[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=black)](https://www.instagram.com/adelino.dev/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=black)](https://www.youtube.com/channel/UCHnO2YJ6VWsFZBwdx26TkxQ)
+
+
+## Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Canva-009196?style=flat-square&logo=canva&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
