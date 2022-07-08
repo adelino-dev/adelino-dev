@@ -12,14 +12,14 @@
 
 
 ## Languages & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-27225A?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-27225A?style=flat-square&logo=javascript&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-27225A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-27225A?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-27225A?style=flat-square&logo=markdown&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/Canva-009196?style=flat-square&logo=canva&logoColor=white)
+![Markdown](https://img.shields.io/badge/Figma-27225A?style=flat-square&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Canva-27225A?style=flat-square&logo=canva&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Markdown](https://img.shields.io/badge/Trello-27225A?style=flat-square&logo=trello&logoColor=white)
