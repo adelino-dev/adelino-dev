@@ -2,7 +2,6 @@
 
 - :art: I'm making programming my new art
 - :wrench: I like challenges and solving problems
-- :dart: Current goal: become a front-end
 
 ## Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-27225A?style=flat-square&logo=python&logoColor=white)
