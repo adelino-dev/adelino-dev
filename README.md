@@ -5,6 +5,7 @@
 
 ## Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-27225A?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-27225A?style=flat-square&logo=R&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-27225A?style=flat-square&logo=javascript&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-27225A?style=flat-square&logo=html5&logoColor=white)
